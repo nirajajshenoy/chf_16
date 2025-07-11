@@ -138,7 +138,7 @@ Step 5: To manage Docker as a non-root user
 sudo usermod -aG docker $USER
 ```
 ```
-docker-compose --version
+docker compose --version
 docker --version
 
 ```
