@@ -12,22 +12,13 @@ sudo apt upgrade
 ```
 
 ## Visual Studio Code
+
 Download and install the latest version of VS code from here: https://code.visualstudio.com/download
 
-(or)
-
-Use this command to install VS Code
-```
-wget "https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64" -O vscode.deb
-```
-
-To install, either launch it by providing execution permission, or execute the following command from the same folder where VS Code is being downloaded
+To install, either launch it by providing execution permission, or execute the following command
 ```
 sudo dpkg -i [filename]
-
-sudo dpkg -i vscode.deb
 ```
-
 
 ## cURL
 Install curl using the command
