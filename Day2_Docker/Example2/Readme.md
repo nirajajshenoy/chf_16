@@ -59,7 +59,7 @@ cat > /hyperledger/fabric/newfolder/<file_name>
 
 To bring down the containers which were up using docker-compose files use the following command
 ```
-docker-compose down
+docker compose down
 
 ```
 
