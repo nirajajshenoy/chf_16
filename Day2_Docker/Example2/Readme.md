@@ -51,7 +51,7 @@ ls /hyperledger/fabric/newfolder
 
 To create a new file using the cat command
 ```
-cat /hyperledger/fabric/newfolder/<file_name>
+cat > /hyperledger/fabric/newfolder/<file_name>
 
 ```
 
