@@ -173,11 +173,11 @@ dpkg -l | grep build-essential
 ## Go
 Step 1: Download Go
 ```
-wget https://go.dev/dl/go1.24.2.linux-amd64.tar.gz
+wget https://go.dev/dl/go1.24.4.linux-amd64.tar.gz
 ```
 Step 2: Extract
 ```
-sudo tar -C /usr/local -xzf go1.24.2.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.24.4.linux-amd64.tar.gz
 ```
 
 Step 3: Add /usr/local/go/bin to the PATH environment variable. Open the /etc/environment file
